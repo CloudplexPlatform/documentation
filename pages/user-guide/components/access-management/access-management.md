@@ -19,9 +19,9 @@ CloudPlex RBAC consists of **Roles**, **Teams**, and **Users**
 
 > **Note:** First time user signing up using a company domain will have **Super User** access of platform.  
 
-> **Note:** Access Management menu will only be available to the Super User of the platform. 
+> **Note:** Access Management menu will only be available to the Super User and admins of the account. 
 
-> **Note:** RBAC will also be integrated with Active Directory (AD). Users can be assigned relevant roles and fetched from AD.
+> **Note:** RBAC will also be integrated with Active Directory (AD). Users can be fetched from AD and assigned relevant roles in platform. 
 
 Now, let's move to the step by step guide on how to use Access Management. We'll show you how to create a simple team with some users and roles.
 
