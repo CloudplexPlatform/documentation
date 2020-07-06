@@ -1,6 +1,6 @@
 # Azure
 
-A cluster is a group of machines instances or nodes on which the services can be deployed. On Azure, these a machines are called Virtual Machines (VM). Azure Virtual Machines (VM) is one of several types of on-demand, scalable computing resources that Azure offers. It gives you the flexibility of virtualization without having to buy and maintain the physical hardware that runs it. To know more about Azure VM, click [here](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/overview).
+A cluster is a group of machines instances or nodes on which the services can be deployed. On Azure, these machines are called Virtual Machines (VM). Azure Virtual Machines (VM) is one of several types of on-demand, scalable computing resources that Azure offers. It gives you the flexibility of virtualization without having to buy and maintain the physical hardware that runs it. To know more about Azure VM, click [here](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/overview).
 
 Here are the configurations option that will be available to user while configuring cluster for Application deployment. 
 
