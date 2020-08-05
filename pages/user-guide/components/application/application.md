@@ -2,7 +2,7 @@
 
 Application is where all the other modules cluster, network, kubernetes and apps will be configured together and the services will be deployed on the nodes. The purpose of the Application is to use the cluster, apps, network and deploy the microservices after detailed configuration. 
 
-CloudPlex offers 3 ways of creation and application deployment on the cloud, based on the requirements and expertise level of the user. 
+CloudPlex offers 3 ways of infrastructure creation and deployment on the cloud, based on the requirements of the user. 
 
 1. Provider Managed
    To setup a cloud provider (AWS, Azure etc) managed Kubernetes cluster on CloudPlex.
