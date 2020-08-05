@@ -22,7 +22,9 @@ Now, lets move to the process of signing up and deployment
 
 ![1](imgs/1.jpg)
 
-CloudPlex offers 3 ways of creation and application deployment on the cloud, based on the requirements and expertise level of the user. 
+# Start Creating Application - Infrastructure Types
+
+CloudPlex offers 3 ways of creation and application deployment on the cloud, based on the requirements. 
 
 1. Provider Managed
    To setup a cloud provider (AWS, Azure etc) managed Kubernetes cluster on CloudPlex.
